@@ -16,15 +16,13 @@ GitPix is a photo gallery app that integrates with the Unsplash API to fetch hig
 ## 🖼️ Screenshots
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/c87c2652-1c05-423a-944d-de6d4f04080a" alt="Splash-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/0388891f-3980-4ec4-a280-f41a625a8bfd" alt="Home-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/8946fe63-97c2-45c2-9584-904863bd4d16" alt="Gallery-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/5dc37d2e-b08b-48b0-93d3-14232868ad09" alt="Gallery-View-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/8a3c5aeb-bd95-4906-b257-06176f5c0068" alt="Model-Output-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/310ff245-dc1d-4348-a621-0373fed26b3e" alt="Disease-Detail-Screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/91316be1-7709-4997-865d-4f1994d7ccfd" alt="Disease-Treatment-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/25a0474d-a23e-4c4f-a2a5-be6d5fdc0f81" alt="Images-View-screen" height="300"/>
-    <img src="https://github.com/user-attachments/assets/fb63fe19-0636-4ab9-958f-0e277c52099c" alt="Camera-View-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/2841d654-9aa8-48b2-8bc1-4bfffe0590c1" alt="Splash-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/eb2e2b0f-2eeb-4398-901e-05500d1a1403" alt="Home-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/783e5d53-bd06-4d64-960b-1c1eb8a9f95f" alt="Gallery-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/8a4bae97-0ddd-4869-953e-f1731f4005a3" alt="Image-Detail-screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/7e72f5ca-7a08-4e82-9ab6-b0e94ef1249d" alt="Owner Profile" height="300"/>
+    <img src="https://github.com/user-attachments/assets/4a42e62c-e10d-4945-8356-35a0f3b10bb3" alt="File-List-Screen" height="300"/>
+    <img src="https://github.com/user-attachments/assets/30d6c8b0-9e13-4de5-8080-f095d456e60a" alt="Bookmarks-screen" height="300"/>
 </div>
 
 ---
@@ -44,7 +42,7 @@ Follow these steps to get the project running on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    https://github.com/JayarajChippada/Plant-Disease-Recognition.git
+    https://github.com/JayarajChippada/GitPix.git
     ```
 2. **Navigate to the project directory**:
     ```bash
@@ -109,4 +107,4 @@ For more in-depth Flutter development, visit the official [Flutter docs](https:/
 
 ---
 
-🌟 **Build your own UPI transaction app with Flutter and explore endless possibilities!**
+🌟 **Explore GitPix and contribute to building a smarter future with Flutter!**
